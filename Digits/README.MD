@@ -1,0 +1,1 @@
+This folder contains Java programs and logic related to problems involving **digits** of a number. These problems are commonly asked in coding interviews to test understanding of number manipulation, loops, and mathematical logic.
